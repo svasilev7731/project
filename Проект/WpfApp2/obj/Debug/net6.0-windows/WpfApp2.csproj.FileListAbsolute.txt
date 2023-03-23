@@ -1,0 +1,135 @@
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\WpfApp2\WpfApp2\bin\Debug\net6.0-windows\WpfApp2.exe
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\WpfApp2\WpfApp2\bin\Debug\net6.0-windows\WpfApp2.deps.json
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\WpfApp2\WpfApp2\bin\Debug\net6.0-windows\WpfApp2.runtimeconfig.json
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\WpfApp2\WpfApp2\bin\Debug\net6.0-windows\WpfApp2.dll
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\WpfApp2\WpfApp2\bin\Debug\net6.0-windows\WpfApp2.pdb
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\WpfApp2\WpfApp2\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\WpfApp2\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.csproj.AssemblyReference.cache
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\WpfApp2\WpfApp2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\WpfApp2\WpfApp2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\WpfApp2\WpfApp2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\WpfApp2\WpfApp2\obj\Debug\net6.0-windows\WpfApp2_MarkupCompile.cache
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\WpfApp2\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.g.resources
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\WpfApp2\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\WpfApp2\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.AssemblyInfoInputs.cache
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\WpfApp2\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.AssemblyInfo.cs
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\WpfApp2\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.csproj.CoreCompileInputs.cache
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\WpfApp2\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.csproj.CopyComplete
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\WpfApp2\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.dll
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\WpfApp2\WpfApp2\obj\Debug\net6.0-windows\refint\WpfApp2.dll
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\WpfApp2\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.pdb
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\WpfApp2\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.genruntimeconfig.cache
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\WpfApp2\WpfApp2\obj\Debug\net6.0-windows\ref\WpfApp2.dll
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\ОсновнойПроект\WpfApp2\bin\Debug\net6.0-windows\WpfApp2.exe
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\ОсновнойПроект\WpfApp2\bin\Debug\net6.0-windows\WpfApp2.deps.json
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\ОсновнойПроект\WpfApp2\bin\Debug\net6.0-windows\WpfApp2.runtimeconfig.json
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\ОсновнойПроект\WpfApp2\bin\Debug\net6.0-windows\WpfApp2.dll
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\ОсновнойПроект\WpfApp2\bin\Debug\net6.0-windows\WpfApp2.pdb
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\ОсновнойПроект\WpfApp2\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\ОсновнойПроект\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.csproj.AssemblyReference.cache
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\ОсновнойПроект\WpfApp2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\ОсновнойПроект\WpfApp2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\ОсновнойПроект\WpfApp2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\ОсновнойПроект\WpfApp2\obj\Debug\net6.0-windows\WpfApp2_MarkupCompile.cache
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\ОсновнойПроект\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.g.resources
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\ОсновнойПроект\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\ОсновнойПроект\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.AssemblyInfoInputs.cache
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\ОсновнойПроект\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.AssemblyInfo.cs
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\ОсновнойПроект\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.csproj.CoreCompileInputs.cache
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\ОсновнойПроект\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.csproj.CopyComplete
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\ОсновнойПроект\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.dll
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\ОсновнойПроект\WpfApp2\obj\Debug\net6.0-windows\refint\WpfApp2.dll
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\ОсновнойПроект\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.pdb
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\ОсновнойПроект\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.genruntimeconfig.cache
+C:\Users\lekto\OneDrive\Рабочий стол\Проект2\ОсновнойПроект\WpfApp2\obj\Debug\net6.0-windows\ref\WpfApp2.dll
+C:\Users\lekto\OneDrive\Рабочий стол\COPYProject\Copy_project\WpfApp2\bin\Debug\net6.0-windows\WpfApp2.exe
+C:\Users\lekto\OneDrive\Рабочий стол\COPYProject\Copy_project\WpfApp2\bin\Debug\net6.0-windows\WpfApp2.deps.json
+C:\Users\lekto\OneDrive\Рабочий стол\COPYProject\Copy_project\WpfApp2\bin\Debug\net6.0-windows\WpfApp2.runtimeconfig.json
+C:\Users\lekto\OneDrive\Рабочий стол\COPYProject\Copy_project\WpfApp2\bin\Debug\net6.0-windows\WpfApp2.dll
+C:\Users\lekto\OneDrive\Рабочий стол\COPYProject\Copy_project\WpfApp2\bin\Debug\net6.0-windows\WpfApp2.pdb
+C:\Users\lekto\OneDrive\Рабочий стол\COPYProject\Copy_project\WpfApp2\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\lekto\OneDrive\Рабочий стол\COPYProject\Copy_project\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.csproj.AssemblyReference.cache
+C:\Users\lekto\OneDrive\Рабочий стол\COPYProject\Copy_project\WpfApp2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lekto\OneDrive\Рабочий стол\COPYProject\Copy_project\WpfApp2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lekto\OneDrive\Рабочий стол\COPYProject\Copy_project\WpfApp2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lekto\OneDrive\Рабочий стол\COPYProject\Copy_project\WpfApp2\obj\Debug\net6.0-windows\WpfApp2_MarkupCompile.cache
+C:\Users\lekto\OneDrive\Рабочий стол\COPYProject\Copy_project\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.g.resources
+C:\Users\lekto\OneDrive\Рабочий стол\COPYProject\Copy_project\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lekto\OneDrive\Рабочий стол\COPYProject\Copy_project\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.AssemblyInfoInputs.cache
+C:\Users\lekto\OneDrive\Рабочий стол\COPYProject\Copy_project\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.AssemblyInfo.cs
+C:\Users\lekto\OneDrive\Рабочий стол\COPYProject\Copy_project\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.csproj.CoreCompileInputs.cache
+C:\Users\lekto\OneDrive\Рабочий стол\COPYProject\Copy_project\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.csproj.CopyComplete
+C:\Users\lekto\OneDrive\Рабочий стол\COPYProject\Copy_project\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.dll
+C:\Users\lekto\OneDrive\Рабочий стол\COPYProject\Copy_project\WpfApp2\obj\Debug\net6.0-windows\refint\WpfApp2.dll
+C:\Users\lekto\OneDrive\Рабочий стол\COPYProject\Copy_project\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.pdb
+C:\Users\lekto\OneDrive\Рабочий стол\COPYProject\Copy_project\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.genruntimeconfig.cache
+C:\Users\lekto\OneDrive\Рабочий стол\COPYProject\Copy_project\WpfApp2\obj\Debug\net6.0-windows\ref\WpfApp2.dll
+C:\Users\lekto\OneDrive\Рабочий стол\COPYProject\Copy_project\WpfApp2\obj\Debug\net6.0-windows\TextBoxTheme.baml
+C:\Users\lekto\OneDrive\Рабочий стол\MAINPROJECT\main_project\WpfApp2\bin\Debug\net6.0-windows\WpfApp2.exe
+C:\Users\lekto\OneDrive\Рабочий стол\MAINPROJECT\main_project\WpfApp2\bin\Debug\net6.0-windows\WpfApp2.deps.json
+C:\Users\lekto\OneDrive\Рабочий стол\MAINPROJECT\main_project\WpfApp2\bin\Debug\net6.0-windows\WpfApp2.runtimeconfig.json
+C:\Users\lekto\OneDrive\Рабочий стол\MAINPROJECT\main_project\WpfApp2\bin\Debug\net6.0-windows\WpfApp2.dll
+C:\Users\lekto\OneDrive\Рабочий стол\MAINPROJECT\main_project\WpfApp2\bin\Debug\net6.0-windows\WpfApp2.pdb
+C:\Users\lekto\OneDrive\Рабочий стол\MAINPROJECT\main_project\WpfApp2\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\lekto\OneDrive\Рабочий стол\MAINPROJECT\main_project\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.csproj.AssemblyReference.cache
+C:\Users\lekto\OneDrive\Рабочий стол\MAINPROJECT\main_project\WpfApp2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lekto\OneDrive\Рабочий стол\MAINPROJECT\main_project\WpfApp2\obj\Debug\net6.0-windows\TextBoxTheme.baml
+C:\Users\lekto\OneDrive\Рабочий стол\MAINPROJECT\main_project\WpfApp2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lekto\OneDrive\Рабочий стол\MAINPROJECT\main_project\WpfApp2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lekto\OneDrive\Рабочий стол\MAINPROJECT\main_project\WpfApp2\obj\Debug\net6.0-windows\WpfApp2_MarkupCompile.cache
+C:\Users\lekto\OneDrive\Рабочий стол\MAINPROJECT\main_project\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.g.resources
+C:\Users\lekto\OneDrive\Рабочий стол\MAINPROJECT\main_project\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lekto\OneDrive\Рабочий стол\MAINPROJECT\main_project\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.AssemblyInfoInputs.cache
+C:\Users\lekto\OneDrive\Рабочий стол\MAINPROJECT\main_project\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.AssemblyInfo.cs
+C:\Users\lekto\OneDrive\Рабочий стол\MAINPROJECT\main_project\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.csproj.CoreCompileInputs.cache
+C:\Users\lekto\OneDrive\Рабочий стол\MAINPROJECT\main_project\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.csproj.CopyComplete
+C:\Users\lekto\OneDrive\Рабочий стол\MAINPROJECT\main_project\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.dll
+C:\Users\lekto\OneDrive\Рабочий стол\MAINPROJECT\main_project\WpfApp2\obj\Debug\net6.0-windows\refint\WpfApp2.dll
+C:\Users\lekto\OneDrive\Рабочий стол\MAINPROJECT\main_project\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.pdb
+C:\Users\lekto\OneDrive\Рабочий стол\MAINPROJECT\main_project\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.genruntimeconfig.cache
+C:\Users\lekto\OneDrive\Рабочий стол\MAINPROJECT\main_project\WpfApp2\obj\Debug\net6.0-windows\ref\WpfApp2.dll
+D:\ytty\main_project\WpfApp2\bin\Debug\net6.0-windows\WpfApp2.exe
+D:\ytty\main_project\WpfApp2\bin\Debug\net6.0-windows\WpfApp2.deps.json
+D:\ytty\main_project\WpfApp2\bin\Debug\net6.0-windows\WpfApp2.runtimeconfig.json
+D:\ytty\main_project\WpfApp2\bin\Debug\net6.0-windows\WpfApp2.dll
+D:\ytty\main_project\WpfApp2\bin\Debug\net6.0-windows\WpfApp2.pdb
+D:\ytty\main_project\WpfApp2\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\ytty\main_project\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.csproj.AssemblyReference.cache
+D:\ytty\main_project\WpfApp2\obj\Debug\net6.0-windows\MainWindow.baml
+D:\ytty\main_project\WpfApp2\obj\Debug\net6.0-windows\TextBoxTheme.baml
+D:\ytty\main_project\WpfApp2\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\ytty\main_project\WpfApp2\obj\Debug\net6.0-windows\App.g.cs
+D:\ytty\main_project\WpfApp2\obj\Debug\net6.0-windows\WpfApp2_MarkupCompile.cache
+D:\ytty\main_project\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.g.resources
+D:\ytty\main_project\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ytty\main_project\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.AssemblyInfoInputs.cache
+D:\ytty\main_project\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.AssemblyInfo.cs
+D:\ytty\main_project\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.csproj.CoreCompileInputs.cache
+D:\ytty\main_project\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.csproj.CopyComplete
+D:\ytty\main_project\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.dll
+D:\ytty\main_project\WpfApp2\obj\Debug\net6.0-windows\refint\WpfApp2.dll
+D:\ytty\main_project\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.pdb
+D:\ytty\main_project\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.genruntimeconfig.cache
+D:\ytty\main_project\WpfApp2\obj\Debug\net6.0-windows\ref\WpfApp2.dll
+C:\Users\lekto\OneDrive\Рабочий стол\Проект\WpfApp2\bin\Debug\net6.0-windows\WpfApp2.exe
+C:\Users\lekto\OneDrive\Рабочий стол\Проект\WpfApp2\bin\Debug\net6.0-windows\WpfApp2.deps.json
+C:\Users\lekto\OneDrive\Рабочий стол\Проект\WpfApp2\bin\Debug\net6.0-windows\WpfApp2.runtimeconfig.json
+C:\Users\lekto\OneDrive\Рабочий стол\Проект\WpfApp2\bin\Debug\net6.0-windows\WpfApp2.dll
+C:\Users\lekto\OneDrive\Рабочий стол\Проект\WpfApp2\bin\Debug\net6.0-windows\WpfApp2.pdb
+C:\Users\lekto\OneDrive\Рабочий стол\Проект\WpfApp2\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\lekto\OneDrive\Рабочий стол\Проект\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.csproj.AssemblyReference.cache
+C:\Users\lekto\OneDrive\Рабочий стол\Проект\WpfApp2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lekto\OneDrive\Рабочий стол\Проект\WpfApp2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lekto\OneDrive\Рабочий стол\Проект\WpfApp2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lekto\OneDrive\Рабочий стол\Проект\WpfApp2\obj\Debug\net6.0-windows\WpfApp2_MarkupCompile.cache
+C:\Users\lekto\OneDrive\Рабочий стол\Проект\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.g.resources
+C:\Users\lekto\OneDrive\Рабочий стол\Проект\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lekto\OneDrive\Рабочий стол\Проект\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.AssemblyInfoInputs.cache
+C:\Users\lekto\OneDrive\Рабочий стол\Проект\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.AssemblyInfo.cs
+C:\Users\lekto\OneDrive\Рабочий стол\Проект\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.csproj.CoreCompileInputs.cache
+C:\Users\lekto\OneDrive\Рабочий стол\Проект\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.csproj.CopyComplete
+C:\Users\lekto\OneDrive\Рабочий стол\Проект\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.dll
+C:\Users\lekto\OneDrive\Рабочий стол\Проект\WpfApp2\obj\Debug\net6.0-windows\refint\WpfApp2.dll
+C:\Users\lekto\OneDrive\Рабочий стол\Проект\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.pdb
+C:\Users\lekto\OneDrive\Рабочий стол\Проект\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.genruntimeconfig.cache
+C:\Users\lekto\OneDrive\Рабочий стол\Проект\WpfApp2\obj\Debug\net6.0-windows\ref\WpfApp2.dll
